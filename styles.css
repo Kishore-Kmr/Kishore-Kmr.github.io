@@ -1,0 +1,21 @@
+h1 {
+    font-size: 60px;
+    font-family: 'Spline Sans Mono', monospace;
+    text-align: center;
+    width: 700px;
+    background-color: #f6f6fbe9;
+    padding: 0px 100px 0px 20px;
+    border: 2px solid rgb(235, 14, 14);
+
+    
+}
+p,li {
+    font-size: 16;
+    line-height: 2;
+    letter-spacing: 0px;
+
+}
+html {
+    background-color: #f8efef;
+}
+
